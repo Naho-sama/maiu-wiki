@@ -1,4 +1,4 @@
-<h1 align="center">Discord Bot Dashboard</h1>
+<h1 align="center">Bot Miau</h1>
 <p>
   <a href="https://discord.gg/myHM6gB">
       <img src="https://discordapp.com/api/guilds/567300605186670602/embed.png" alt="Discord Server Shield"/>
@@ -15,12 +15,6 @@
 
 * Twitter: [@Patife_sama](https://twitter.com/Patife_sama)
 * Server de suporte! [Junte-se aqui](https://discord.gg/myHM6gB)
-
-
-## 📝 License
-
-Copyright © 2019 [Patife-sama](https://twitter.com/Patife_sama).<br />
-
 
 ## Comandos
 
@@ -41,4 +35,8 @@ Copyright © 2019 [Patife-sama](https://twitter.com/Patife_sama).<br />
 |unmute          |`Tirar o mute de alguém do server`|yes|
 |clear          |` Limpar o chat`|yes|
 |instagram           |`Procure 1 perfil do instagram`|no|
+
+## 📝 License
+
+Copyright © 2019 [Patife-sama](https://twitter.com/Patife_sama).<br />
 
