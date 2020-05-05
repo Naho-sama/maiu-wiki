@@ -1,7 +1,7 @@
 <h1 align="center">Bot Miau</h1>
 <p>
-  <a href="https://discord.gg/myHM6gB">
-      <img src="https://discordapp.com/api/guilds/567300605186670602/embed.png" alt="Discord Server Shield"/>
+  <a href="https://discord.gg/T2wdS2e">
+      <img src="https://discordapp.com/api/guilds/685082827406311427/embed.png" alt="Discord Server Shield"/>
   </a>
   </a>
   <a href="https://twitter.com/Patife_sama">
@@ -36,7 +36,7 @@
 |clear          |` Limpar o chat`|yes|
 |instagram           |`Procure 1 perfil do instagram`|no|
 
-<img src="https://top.gg/api/widget/670306612409270275.svg">
+<img src="https://top.gg/api/widget/685082827406311427.svg">
 
 ## 📝 License
 
