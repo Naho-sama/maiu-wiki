@@ -3,9 +3,7 @@
   <a href="https://discord.gg/myHM6gB">
       <img src="https://discordapp.com/api/guilds/567300605186670602/embed.png" alt="Discord Server Shield"/>
   </a>
-    <a href="https://discord.gg/myHM6gB">
-      <img src="https://top.gg/api/widget/567300605186670602.svg?usernamecolor=FFFFFF&topcolor=000000
-" alt="Discord Server Shield"/>
+    <a href="https://top.gg/api/widget/567300605186670602.svg?usernamecolor=FFFFFF&topcolor=000000">
   </a>
   </a>
   <a href="https://twitter.com/Patife_sama">
