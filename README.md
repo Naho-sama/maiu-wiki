@@ -36,7 +36,7 @@
 |clear          |` Limpar o chat`|yes|
 |instagram           |`Procure 1 perfil do instagram`|no|
 
-<img src="https://top.gg/api/widget/659869066206511114.svg?usernamecolor=FFFFFF&topcolor=000000>
+<img src="https://top.gg/api/widget/659869066206511114.svg?usernamecolor=FFFFFF&amp;topcolor=000000">
 
 ## 📝 License
 
