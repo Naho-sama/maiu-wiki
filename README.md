@@ -3,12 +3,11 @@
   <a href="https://discord.gg/myHM6gB">
       <img src="https://discordapp.com/api/guilds/567300605186670602/embed.png" alt="Discord Server Shield"/>
   </a>
-    <a href="https://top.gg/api/widget/567300605186670602.svg?usernamecolor=FFFFFF&topcolor=000000">
-  </a>
   </a>
   <a href="https://twitter.com/Patife_sama">
     <img alt="Twitter: Patife-sama" src="https://img.shields.io/twitter/follow/patife_sama.svg?style=social" target="_blank" />
   </a>
+  <img src="https://top.gg/api/widget/567300605186670602.svg?usernamecolor=FFFFFF&amp;topcolor=000000">
 </p>
 
 > Este bot foi criado na zueira, só para aprender
