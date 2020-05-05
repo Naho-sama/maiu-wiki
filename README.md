@@ -7,7 +7,6 @@
   <a href="https://twitter.com/Patife_sama">
     <img alt="Twitter: Patife-sama" src="https://img.shields.io/twitter/follow/patife_sama.svg?style=social" target="_blank" />
   </a>
-  <img src="https://top.gg/api/widget/567300605186670602.svg?usernamecolor=FFFFFF&amp;topcolor=000000">
 </p>
 
 > Este bot foi criado na zueira, só para aprender
@@ -36,6 +35,8 @@
 |unmute          |`Tirar o mute de alguém do server`|yes|
 |clear          |` Limpar o chat`|yes|
 |instagram           |`Procure 1 perfil do instagram`|no|
+
+<img src="https://top.gg/api/widget/567300605186670602.svg?usernamecolor=FFFFFF&amp;topcolor=000000">
 
 ## 📝 License
 
